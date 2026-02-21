@@ -1,0 +1,2 @@
+# RAdominio
+Scrip termux
