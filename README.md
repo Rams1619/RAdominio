@@ -6,9 +6,9 @@
 
 ## Instalación
 
-```bash $ git clone https://github.com/SamaelAS/Subdominios```
+```bash $ git clone https://github.com/Rams1619/RAdominio```
 
-```bash $ cd ctfr```
+```bash $ cd RAdomin```
 
 ```bash $ pip3 install -r requirements.txt```
 
